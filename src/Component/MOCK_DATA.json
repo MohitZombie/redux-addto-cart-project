@@ -1,0 +1,5 @@
+[{ "id": 1,"titel":"COC","imgs":"./image/coc.jpg","itemprice":"100"},
+{"id": 2,"titel":"COD","imgs":"./image/download.jpg","itemprice":"1000"},
+{"id": 3,"titel":"NFS","imgs":"./image/nfs.jpg","itemprice":"400"},
+{"id": 4,"titel":"GTA","imgs":"./image/Gta.jpg","itemprice":"700"}
+]
